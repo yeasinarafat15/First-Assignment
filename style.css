@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: #FFAD5A;
+}
+.explore-button{
+    text-decoration: none;
+    background-image: linear-gradient(#ff5757, #ff5757);
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin: 20px 0px;
+}
+.top-banner{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 90%;
+}
